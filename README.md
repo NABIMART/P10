@@ -3,3 +3,5 @@
 # OBSERVACIONES
 
 ### FALTA DE RETOQUES EN EL CODIGO-CONSULTA CON EL DOCENTE 
+
+-[GESTIONMEDICA](src/ventanas/DialogGestionMedicamentos.java)
